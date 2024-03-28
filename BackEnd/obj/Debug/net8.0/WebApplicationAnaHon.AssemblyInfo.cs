@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationAnaHon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf1a74da46d94f105bd3345135b633e14f991cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471d5a335f4c42ed0546e1b4380c1266956724ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationAnaHon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationAnaHon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
