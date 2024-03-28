@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|c:\\asp.net api\\webapplicationanahon\\backend\\controllers\\blooddonorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|solutionrelative:controllers\\blooddonorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|c:\\asp.net api\\webapplicationanahon\\backend\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|c:\\asp.net api\\webapplicationanahon\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|c:\\asp.net api\\webapplicationanahon\\backend\\data\\models\\blooddonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA93E91A-80DD-4FF9-92F9-EA2E12BC224E}|WebApplicationAnaHon.csproj|solutionrelative:data\\models\\blooddonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:47:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloodDonorController.cs",
+              "DocumentMoniker": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Controllers\\BloodDonorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BloodDonorController.cs",
+              "ToolTip": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Controllers\\BloodDonorController.cs",
+              "RelativeToolTip": "Controllers\\BloodDonorController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:46:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwBIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:18:29.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BloodDonor.cs",
+              "DocumentMoniker": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Data\\Models\\BloodDonor.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\BloodDonor.cs",
+              "ToolTip": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\Data\\Models\\BloodDonor.cs",
+              "RelativeToolTip": "Data\\Models\\BloodDonor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:25:05.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

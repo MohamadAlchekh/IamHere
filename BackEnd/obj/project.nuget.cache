@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RJIZv74sgQ5VtNfP3yot9SszQq42u3Eoxt6FvzpsQ3NGuXNLzHiuTYvfPtmoGPOGrGXuHUqRl+pZ+hJFL+noBQ==",
+  "dgSpecHash": "AP3mCJrpHDZ22Ccd4Wn54fyuU5WjPl2f06Zhti8Kkd8rnpKLD7mMxJE9o5H10ohaoXmm/JCdNJhsd7zjH0ncXA==",
   "success": true,
-  "projectFilePath": "C:\\Asp.Net API\\WebApplicationAnaHon\\WebApplicationAnaHon.csproj",
+  "projectFilePath": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\WebApplicationAnaHon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\malch\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\malch\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

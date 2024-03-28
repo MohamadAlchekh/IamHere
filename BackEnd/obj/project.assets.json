@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Asp.Net API\\WebApplicationAnaHon\\WebApplicationAnaHon.csproj",
+      "projectUniqueName": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\WebApplicationAnaHon.csproj",
       "projectName": "WebApplicationAnaHon",
-      "projectPath": "C:\\Asp.Net API\\WebApplicationAnaHon\\WebApplicationAnaHon.csproj",
+      "projectPath": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\WebApplicationAnaHon.csproj",
       "packagesPath": "C:\\Users\\malch\\.nuget\\packages\\",
-      "outputPath": "C:\\Asp.Net API\\WebApplicationAnaHon\\obj\\",
+      "outputPath": "C:\\Asp.Net API\\WebApplicationAnaHon\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\malch\\AppData\\Roaming\\NuGet\\NuGet.Config",

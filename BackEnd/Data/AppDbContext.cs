@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AnahoneAPI.Models;
+using Microsoft.EntityFrameworkCore;
 using WebApplicationAnaHon.Data.Models;
 
 namespace WebApplicationAnaHon.Data
@@ -11,6 +12,7 @@ namespace WebApplicationAnaHon.Data
                 
         }
         public DbSet<MissingPersons> Persons { get; set; }
+        public DbSet<BloodDonor> Donors { get; set; }
     }
 
 }

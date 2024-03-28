@@ -17,7 +17,7 @@ namespace WebApplicationAnaHon.Controllers
         private readonly AppDbContext _db;
         
       
-        [HttpGet]
+        [HttpGet("getall")]
         public async Task<IActionResult> GetAllPersons()
         {
             var person = await _db.Persons.ToListAsync();
@@ -37,7 +37,7 @@ namespace WebApplicationAnaHon.Controllers
 
             return Ok(person);
         }
-        [HttpPost]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddPerson(string firstname, string lastname, int age , string gender, DateTime lastseendate , string location, string description, string casedetails, string clothingdescription, int heightcm , int weightkg , string haircolur , string eyecolor, string photopath, string contact, string casestatus)
         {
             MissingPersons p = new() { FirstName = firstname, LastName = lastname, Age = age, Gender = gender , LastSeenDate =lastseendate, Location = location, Description = description, CaseDetails=casedetails,ClothingDescription= clothingdescription, HeightCM= heightcm, WeightKG=weightkg, HairColor= haircolur, EyeColor=eyecolor, PhotoPath= photopath, Contact= contact, CaseStatus= casestatus };
